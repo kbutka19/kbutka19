@@ -1,4 +1,4 @@
-👋 Hi there! I'm Kejsi Butka
+👋 Hi there! I am Kejsi Butka
 
 🚀 **Front-End Developer | Angular Enthusiast**  
 
