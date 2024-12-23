@@ -24,8 +24,8 @@ Welcome to my GitHub! I'm a passionate front-end developer specializing in build
 ---
 
 ## 📫 **Let’s Connect!**  
-- 💼 https://www.linkedin.com/in/kejsi-butka-7b1307a2/
-- 📧 [Email](mailto:your-email@example.com)  
+- 💼  [LinkedIn](https://www.linkedin.com/in/kejsi-butka-7b1307a2/)  
+- 📧 [Email](kejsibutka@yahoo.com)  
 
 ---
 
