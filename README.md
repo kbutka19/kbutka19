@@ -1,22 +1,37 @@
 👋 Hi there! I'm Kejsi Butka
-🚀 Front-End Developer | Angular Enthusiast | Problem Solver
 
-I’m a passionate front-end developer with a knack for building dynamic and user-friendly web applications using Angular and other modern web technologies. My goal is to craft clean, maintainable code while delivering exceptional user experiences.
+🚀 **Front-End Developer | Angular Enthusiast**  
 
-💻 What I Do
-Develop robust and scalable SPAs with Angular, RxJS, and state management libraries.
-Create responsive, accessible, and aesthetically pleasing UIs with HTML5, CSS3, SASS, and TailwindCSS.
-Collaborate with back-end teams to integrate RESTful APIs seamlessly into front-end applications.
-Optimize application performance for better load times and user satisfaction.
-🌟 Tech Stack
-Languages: TypeScript, JavaScript
-Frameworks & Libraries: Angular, RxJS, NgRx
-Tools: Git, Webpack, VS Code, Figma
-Other Skills: REST APIs, Agile Development, Code Review
-🌐 Find Me Online
-🖥️ Portfolio
-💼 LinkedIn
-🐦 Twitter
-I’m always looking to collaborate on exciting open-source projects, so feel free to reach out or check out my repositories!
+Welcome to my GitHub! I'm a passionate front-end developer specializing in building dynamic, responsive, and scalable web applications using **Angular** and modern web technologies.  
 
-Happy coding! 💻✨
+---
+
+## 💻 **What I Do**  
+- Develop single-page applications (SPAs) with **Angular** and **TypeScript**.  
+- Create responsive and accessible user interfaces using **HTML5**, **CSS3**, **SASS**, and **Bootstrap**.  
+- Work with **RxJS** and state management libraries like **NgRx** for efficient app functionality.  
+- Integrate RESTful APIs to deliver seamless back-end communication.  
+
+---
+
+## 🌟 **Tech Stack**  
+- **Languages:** TypeScript, JavaScript  
+- **Frameworks & Libraries:** Angular, RxJS, NgRx, Angular Material
+- **Styling:** CSS, SCSS, TailwindCSS, Bootstrap  
+- **Tools:** Git, Webpack, Visual Studio Code, Figma  
+- **Others:** REST APIs, Agile Development, Code Review  
+
+---
+
+## 📫 **Let’s Connect!**  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio](#)  
+- 📧 [Email](mailto:your-email@example.com)  
+
+---
+
+✨ I’m always excited to collaborate on open-source projects and learn new technologies. Feel free to explore my repositories or reach out. 
+
+Happy coding! 💻✨ 
+
+
